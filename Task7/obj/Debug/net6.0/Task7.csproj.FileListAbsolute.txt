@@ -1,0 +1,16 @@
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\bin\Debug\net6.0\Task7.exe
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\bin\Debug\net6.0\Task7.deps.json
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\bin\Debug\net6.0\Task7.dll
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\bin\Debug\net6.0\ref\Task7.dll
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\bin\Debug\net6.0\Task7.pdb
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.GlobalUsings.g.cs
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.dll
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\ref\Task7.dll
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.pdb
+C:\Users\KreTe\OneDrive\Рабочий стол\C#Sem\DZ1\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
